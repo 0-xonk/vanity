@@ -1,1 +1,1 @@
-Vanity Management - An rich Vanity-Roles bot.
+# Vanity Management - A Customizable VanityRoles Bot
